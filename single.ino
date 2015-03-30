@@ -111,3 +111,25 @@ void g()
   digitalWrite(pin, LOW);
   delay(250);
 }
+
+
+
+void z()
+{
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+}
