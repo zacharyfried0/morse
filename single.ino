@@ -114,6 +114,152 @@ void g()
 
 
 
+
+
+void q()
+{
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+}
+void r()
+{
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+}
+void s()
+{
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+}
+void t()
+{
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+}
+void u()
+{
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+}
+void v()
+{
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+}
+void w()
+{
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+}
+void x()
+{
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+}
+void y()
+{
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+  digitalWrite(pin, HIGH);
+  delay(1000);
+  digitalWrite(pin, LOW);
+  delay(250);
+}
 void z()
 {
   digitalWrite(pin, HIGH);
