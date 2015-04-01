@@ -32,7 +32,7 @@ void dot()
   digitalWrite(pin, HIGH);
   delay(250);
   digitalWrite(pin, LOW);
-  delay(250)
+  delay(250);
 }
 
 void dash()
@@ -149,6 +149,6 @@ switch (char) {
     case 'Z': dash(); dash(); dot(); dot();
       break;
     default: 
-      // if nothing else matches, do the default
-      // default is optional
+    digitalWrite(pin, LOW);
+    delay(1000050);
   }
